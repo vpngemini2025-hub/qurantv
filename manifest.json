@@ -1,0 +1,17 @@
+{
+  "name": "Jellouli QuranTV",
+  "short_name": "QuranTV",
+  "description": "المصحف الرقمي بصوت كبار القراء",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#064E3B",
+  "theme_color": "#064E3B",
+  "icons": [
+    {
+      "src": "logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
