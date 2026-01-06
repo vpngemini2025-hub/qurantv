@@ -1,11 +1,12 @@
 {
   "name": "Jellouli QuranTV",
   "short_name": "QuranTV",
-  "description": "المصحف الرقمي بصوت كبار القراء",
-  "start_url": "./index.html",
+  "description": "تطبيق Jellouli QuranTV للاستماع وتلاوة القرآن الكريم بصوت أشهر القراء مع التفسير الميسر.",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#064E3B",
   "theme_color": "#064E3B",
+  "orientation": "portrait",
   "icons": [
     {
       "src": "logo-512.png",
